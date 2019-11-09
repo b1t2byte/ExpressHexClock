@@ -1,0 +1,31 @@
+* { margin: 0; padding: 0; }
+
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+}
+
+.font{
+  color: #fafafa;
+  text-align: center;
+  font-family: 'Ubuntu Mono', monospace;
+  font-weight: 500;
+}
+
+.clock{
+<<<<<<< HEAD
+  font-size: 25vh;
+}
+
+.color{
+  font-size: 5vh;
+=======
+  font-size: 4em;
+}
+
+.color{
+  font-size: 2em;
+>>>>>>> ee1b0cc... All Done!
+}
