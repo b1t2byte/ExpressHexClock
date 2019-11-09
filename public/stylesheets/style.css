@@ -15,17 +15,9 @@ body{
 }
 
 .clock{
-<<<<<<< HEAD
   font-size: 4em;
 }
 
 .color{
   font-size: 2em;
-=======
-  font-size: 25vh;
-}
-
-.color{
-  font-size: 5vh;
->>>>>>> 54b0f297a64e6ed8a151c9b970fb13b8dfae3a49
 }
